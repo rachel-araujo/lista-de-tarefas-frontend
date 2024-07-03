@@ -45,3 +45,11 @@ O aplicativo será iniciado automaticamente em http://localhost:3000/
 - Adicionar Tarefa: Digite o nome da tarefa no campo "Nova Tarefa" e clique em "Adicionar Tarefa".
 - Marcar Tarefa como Concluída: Marque a caixa de seleção ao lado de cada tarefa para marcá-la como concluída.
 - Excluir Tarefa: Clique no ícone de lixeira ao lado de cada tarefa para excluí-la da lista.
+
+
+![image](https://github.com/rachel-araujo/lista-de-tarefas-frontend/assets/79382072/a33f466d-e947-4514-897f-483f808d3924)
+
+![image](https://github.com/rachel-araujo/lista-de-tarefas-frontend/assets/79382072/ff2df2b5-39c4-4c9b-92be-d735ec0c11b2)
+
+
+
